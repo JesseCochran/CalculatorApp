@@ -1,0 +1,17 @@
+<!-- circle_button.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+
+<!--    <solid android:color="#YourButtonColor" />-->
+
+    <!-- You can set the stroke properties if you want a border around the circle -->
+    <!--
+    <stroke
+        android:width="2dp"
+        android:color="#YourBorderColor" />
+    -->
+
+    <size
+        android:width="10dp"
+        android:height="60dp" />
+</shape>
